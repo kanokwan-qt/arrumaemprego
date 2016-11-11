@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" 	xmlns:content="http://purl.org/rss/1.0/modules/content/" 	xmlns:wfw="http://wellformedweb.org/CommentAPI/" 	xmlns:dc="http://purl.org/dc/elements/1.1/" 	xmlns:atom="http://www.w3.org/2005/Atom" 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/" 	>  <channel> 	<title>Genosha</title> 	<atom:link href="http://arrumaemprego.centrodouniverso.com.br/feed" rel="self" type="application/rss+xml" /> 	<link>http://arrumaemprego.centrodouniverso.com.br</link> 	<description>Just another WordPress site</description> 	<lastbuilddate>Fri, 26 Aug 2016 18:28:01 +0000</lastbuilddate> 	<language>en-US</language> 	<sy:updateperiod>hourly</sy:updateperiod> 	<sy:updatefrequency>1</sy:updatefrequency> 	<generator>https://wordpress.org/?v=4.6.1</generator> </channel> </rss> <style>
+.site-description{
+    color:white;
+}
+</style>
